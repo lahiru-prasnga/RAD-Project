@@ -1,0 +1,17 @@
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\bin\Debug\RAD Project.exe.config
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\bin\Debug\RAD Project.exe
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\bin\Debug\RAD Project.pdb
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD Project.csproj.AssemblyReference.cache
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD_Project.Form1.resources
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD_Project.Properties.Resources.resources
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD Project.csproj.GenerateResource.cache
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD Project.csproj.CoreCompileInputs.cache
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD Project.exe
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD Project.pdb
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD_Project.UserControl1AboutUs.resources
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD_Project.UserControl1_Channel.resources
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD_Project.UserControl1_Home.resources
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD_Project.UserControl1_Login.resources
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD_Project.UserControl1_Patients.resources
+C:\Users\Pasan Pinsara\source\repos\RAD Project\RAD Project\obj\Debug\RAD_Project.UserControl1_Time.resources
