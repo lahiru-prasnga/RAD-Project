@@ -37,9 +37,10 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(304, 232);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(314, 32);
+            this.label1.Size = new System.Drawing.Size(255, 32);
             this.label1.TabIndex = 1;
-            this.label1.Text = "About Us Details Here";
+            this.label1.Text = "mata ba whoththo";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // UserControl1AboutUs
             // 
